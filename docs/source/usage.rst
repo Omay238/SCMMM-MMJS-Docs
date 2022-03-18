@@ -1,16 +1,12 @@
 Usage
 =====
 
-.. _installation:
+.. _Texture_Packs:
 
-Installation
-------------
+Texture Packs
+-------------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+To make a texture pack, download the file `here <https://world.openfoodfacts.org/>`_
 
 Creating recipes
 ----------------
